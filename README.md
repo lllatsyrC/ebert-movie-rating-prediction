@@ -10,7 +10,7 @@ To learn more, see my [blog post](https://crystalhuang-ds.medium.com/the-roger-e
 
 ## Workflow
 1. Data Acquisition <br />
-    a. [Ebert Data](https://github.com/crystal-ctrl/regression_project/blob/ba6607148f5924f74489de0370b86f1fb76d835d/1A_Data%20Acquisition%20(Ebert%20Data%20Scraping%20&%20Cleaning).ipynb)<br />
+    a. [Ebert Data](1_data_scraper.ipynb)<br />
     b. [Other Data](https://github.com/crystal-ctrl/regression_project/blob/ba6607148f5924f74489de0370b86f1fb76d835d/1B_More%20Data%20Acquisition%20and%20Cleaning.ipynb)<br />
 2. [EDA & Feature Engineer & Selection](https://github.com/crystal-ctrl/regression_project/blob/ba6607148f5924f74489de0370b86f1fb76d835d/2_EDA%20&%20FE%20and%20Selection.ipynb)
 3. [Regression Modeling & Testing](https://github.com/crystal-ctrl/regression_project/blob/ba6607148f5924f74489de0370b86f1fb76d835d/3_Modeling_&_Testing.ipynb)<br />
